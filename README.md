@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @el1as223
 - 👀 I’m interested in #Web-Programming
-- 🌱 I’m currently learning #C++
+- 🌱 I’m currently learning Nextjs, Database
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me #eliaslamprecht41@gmail.com
 
