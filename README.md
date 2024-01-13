@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @el1as223
+- 👋 Hi, I’m @el1as223 / @elias230
 - 👀 I’m interested in #Web-Programming
 - 🌱 I’m currently learning Nextjs, Database
 - 💞️ I’m looking to collaborate on ...
